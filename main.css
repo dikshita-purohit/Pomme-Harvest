@@ -1,0 +1,16 @@
+
+
+body {
+    margin-top: 10%;
+    margin-left: 10%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+}
+#renderDiv {
+    width: 900px;
+    height: 500px;
+    background-color: #000000;
+}   
